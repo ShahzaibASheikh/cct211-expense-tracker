@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# PyCharm / IDE settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database (local data)
+expense_tracker.db
+*.db
+
+# Virtual env (if you make one later)
+venv/
